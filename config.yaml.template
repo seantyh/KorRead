@@ -1,0 +1,12 @@
+TextbookSource: 
+  path: ""
+  archive: "CoeusTextSrc_20170906.zip"
+  availability:
+    - Google Drive
+
+Embeddings:
+  vocab_size: 4586
+  embed_dim: 100
+  datapath: "data/as4_char_vec_norm.bytes"
+  vocabpath: "data/as4_char_vocab_norm.tsv"
+  format: numpy data

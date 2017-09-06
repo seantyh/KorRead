@@ -1,0 +1,8 @@
+*~
+*.tmp
+*.swp
+.*/
+__pycache__/
+config.yaml
+data/*.tsv
+data/*.bytes
